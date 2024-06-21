@@ -1,0 +1,15 @@
+{
+  "name": "node2024",
+  "version": "1.0.0",
+  "main": "12-http_module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
